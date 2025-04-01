@@ -45,7 +45,7 @@ Modifique o arquivo `package.json` para incluir os scripts:
   "description": "Projeto base de uma API com MVC",
   "keywords": ["nodejs", "javascript", "prisma"],
   "license": "MIT",
-  "author": "Felipe Dev",
+  "author": "Vinicius Valverde",
   "type": "module",
   "main": "src/server.js",
   "scripts": {
