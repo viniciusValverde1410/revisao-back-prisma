@@ -149,7 +149,6 @@ class AnimeModel {
 
     return true;
   }
-  
 }
 
 export default new AnimeModel();
